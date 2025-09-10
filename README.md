@@ -11,6 +11,8 @@ Summary: Gaussian processes in JAX.
 
 Development: https://github.com/JaxGaussianProcesses/GPJax
 
+Documentation: https://docs.jaxgaussianprocesses.com/
+
 Current build status
 ====================
 
